@@ -3,7 +3,7 @@
     //Fields
     private int x, y;
     private AnotherClass myClass;
-    private Days my Days;
+    private Days myDays;
 
     //Constructor
     public MyStruct(int a, int b, int c)
