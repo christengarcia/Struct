@@ -22,3 +22,9 @@
     }
 }
 
+class AnotherClass
+{
+    public int number;
+}
+
+enum Days { Mon, Tues, Wed }
